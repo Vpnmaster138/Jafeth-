@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+JAFETH NTIGAMAGWA TECHNOLOGY 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -237,7 +237,7 @@
     
     <div class="container">
         <div class="title-box">
-            <color="red"</>
+            JAFETH NTIGAMAGWA 👋
             <h1>VPN MASTER</h1>
             <p class="subtitle">Experience the Next Generation AI</p>
         </div>
